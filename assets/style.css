@@ -9,3 +9,5 @@
 @media(max-width:600px){.below-image-nav{gap:4px;padding:6px 10px 0}.quick-links{gap:0}.quick-links a{padding:8px 7px;font-size:.8rem}.below-image-nav .main-menu{top:52px}.brand img{max-width:100%}}
 .menu-toggle{width:46px;height:46px;border:0;background:#fff;cursor:pointer;padding:10px;display:flex;flex-direction:column;justify-content:center;gap:5px}
 #main-menu{position:fixed;left:44%;right:auto;top:445px;bottom:auto;transform:translateX(-50%);z-index:1000}
+.chi-sono-titolo{font-family:Arial,sans-serif;font-size:2rem;font-weight:700;font-style:normal;text-align:left;margin:0 0 15px;padding:0;color#000080!important;}
+.chi-sono-page{width:100%;max-width:600px;margin:0 auto;padding:40px 20px 80px;box-sizing:border-box;text-align:left;} 
